@@ -92,20 +92,20 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-3.xhtml" id="book-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-4.xhtml" id="book-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-5.xhtml" id="book-5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-6.xhtml" id="book-6.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-7.xhtml" id="book-7.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-8.xhtml" id="book-8.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-9.xhtml" id="book-9.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-10.xhtml" id="book-10.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-11.xhtml" id="book-11.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-12.xhtml" id="book-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-jungle-joke.xhtml" id="a-jungle-joke.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/tarzan-and-the-black-boy.xhtml" id="tarzan-and-the-black-boy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/tarzan-rescues-the-moon.xhtml" id="tarzan-rescues-the-moon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/tarzans-first-love.xhtml" id="tarzans-first-love.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-battle-for-teeka.xhtml" id="the-battle-for-teeka.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-capture-of-tarzan.xhtml" id="the-capture-of-tarzan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-end-of-bukawai.xhtml" id="the-end-of-bukawai.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fight-for-the-balu.xhtml" id="the-fight-for-the-balu.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-god-of-tarzan.xhtml" id="the-god-of-tarzan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lion.xhtml" id="the-lion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-nightmare.xhtml" id="the-nightmare.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-witch-doctor-seeks-vengeance.xhtml" id="the-witch-doctor-seeks-vengeance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -113,18 +113,18 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="book-1.xhtml"/>
-		<itemref idref="book-2.xhtml"/>
-		<itemref idref="book-3.xhtml"/>
-		<itemref idref="book-4.xhtml"/>
-		<itemref idref="book-5.xhtml"/>
-		<itemref idref="book-6.xhtml"/>
-		<itemref idref="book-7.xhtml"/>
-		<itemref idref="book-8.xhtml"/>
-		<itemref idref="book-9.xhtml"/>
-		<itemref idref="book-10.xhtml"/>
-		<itemref idref="book-11.xhtml"/>
-		<itemref idref="book-12.xhtml"/>
+		<itemref idref="tarzans-first-love.xhtml"/>
+		<itemref idref="the-capture-of-tarzan.xhtml"/>
+		<itemref idref="the-fight-for-the-balu.xhtml"/>
+		<itemref idref="the-god-of-tarzan.xhtml"/>
+		<itemref idref="tarzan-and-the-black-boy.xhtml"/>
+		<itemref idref="the-witch-doctor-seeks-vengeance.xhtml"/>
+		<itemref idref="the-end-of-bukawai.xhtml"/>
+		<itemref idref="the-lion.xhtml"/>
+		<itemref idref="the-nightmare.xhtml"/>
+		<itemref idref="the-battle-for-teeka.xhtml"/>
+		<itemref idref="a-jungle-joke.xhtml"/>
+		<itemref idref="tarzan-rescues-the-moon.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
